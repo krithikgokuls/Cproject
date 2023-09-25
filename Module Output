@@ -1,0 +1,183 @@
+--> ***** Useless Library Management ****** <--
+
+1.Admin
+2.student
+3.Exit
+Enter the Choice :1
+Enter a id :t4teq
+Enter a Pass :12345
+
+1.Add books
+2.Issue books
+3.Save Report
+4.Exit
+Enter the Choice :1
+
+Enter the No.of Books :2
+
+Enter Book Name :physics
+
+Enter Author Name :henry
+
+Enter Book Price :150
+Book Id Is : 1000
+Enter Book Name :chemistry
+
+Enter Author Name :charles
+
+Enter Book Price :150
+Book Id Is : 1001
+1.Add books
+2.Issue books
+3.Save Report
+4.Exit
+Enter the Choice :2
+
+2Book is Empty ..... !!!!!!!!!
+1.Add books
+2.Issue books
+3.Save Report
+4.Exit
+Enter the Choice :3
+open library file to view the saved details
+1.Add books
+2.Issue books
+3.Save Report
+4.Exit
+Enter the Choice :4
+
+1.Admin
+2.student
+3.Exit
+Enter the Choice :2
+
+1.Sign Up
+2.Sign In
+3.Exit
+Enter the Choice :1
+
+Enter Student Name :krithik
+
+Enter Student Pass :123
+Student Id Is : 500
+1.Sign Up
+2.Sign In
+3.Exit
+Enter the Choice :2
+
+ Enter student name:krithik
+
+Enter Student Id :500
+
+Enter Student Pass :123
+
+1.View books
+2.search books
+3.lend books
+4.Return books
+5.Exit
+Enter the Choice :1
+
+2
+Book Name :physics
+Author Name :henry
+Book Price :150.000000
+Book Id :1000
+
+
+Book Name :chemistry
+Author Name :charles
+Book Price :150.000000
+Book Id :1001
+
+
+1.View books
+2.search books
+3.lend books
+4.Return books
+5.Exit
+Enter the Choice :2
+
+Enter Book Id:1001
+book found
+Book Name :chemistry
+Author Name :charles
+Book Price :150.000000
+
+
+1.View books
+2.search books
+3.lend books
+4.Return books
+5.Exit
+Enter the Choice :3
+Enter You Book Id : 1000
+||||||......only one book can be lended......||||||Book is Empty ..... !!!!!!!!!
+1.View books
+2.search books
+3.lend books
+4.Return books
+5.Exit
+Enter the Choice :4
+Enter You Book Id : 1000
+not lended ...
+1.View books
+2.search books
+3.lend books
+4.Return books
+5.Exit
+Enter the Choice :4
+Enter You Book Id : 500
+Book Not Avilable ..... !!!!!!!!!
+1.View books
+2.search books
+3.lend books
+4.Return books
+5.Exit
+Enter the Choice :5
+
+1.Sign Up
+2.Sign In
+3.Exit
+Enter the Choice :3
+
+1.Admin
+2.student
+3.Exit
+Enter the Choice :3
+
+!!!!!!!!! .......... Thank You For Visit ......... !!!!!!
+
+------------------
+(program exited with code: 0)
+
+Press any key to continue . . .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
