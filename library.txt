@@ -1,0 +1,12 @@
+
+____The books added in the library are:___
+Bookname:physics
+Author name:henry
+Book price:150.000000
+book id :1000
+Bookname:chemistry
+Author name:charles
+Book price:150.000000
+book id :1001
+__The books to be issued__
+the books went out from library:
